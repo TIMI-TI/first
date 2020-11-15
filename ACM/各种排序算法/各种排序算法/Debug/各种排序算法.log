@@ -1,0 +1,13 @@
+﻿  主函数.c
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(12,11): warning C4013: “CountSort”未定义；假设外部返回 int
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(25,12): warning C4013: “InsertSort”未定义；假设外部返回 int
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(38,14): warning C4013: “BInsert_Sort”未定义；假设外部返回 int
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(54,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(59,14): warning C4013: “ShellInsert”未定义；假设外部返回 int
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(73,11): warning C4013: “QuickSort”未定义；假设外部返回 int
+H:\桌面\ACM\各种排序算法\各种排序算法\主函数.c(90,15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  计数排序.c
+H:\桌面\ACM\各种排序算法\各种排序算法\计数排序.c(6,18): warning C4013: “malloc”未定义；假设外部返回 int
+H:\桌面\ACM\各种排序算法\各种排序算法\计数排序.c(20,6): warning C4013: “free”未定义；假设外部返回 int
+主函数.obj : error LNK2019: 无法解析的外部符号 _QuickSort，函数 _testquick 中引用了该符号
+H:\桌面\ACM\各种排序算法\Debug\各种排序算法.exe : fatal error LNK1120: 1 个无法解析的外部命令
