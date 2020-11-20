@@ -1,0 +1,18 @@
+﻿  main.cpp
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(43,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(52,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(317,46): warning C4101: “p”: 未引用的局部变量
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(317,56): warning C4101: “p3”: 未引用的局部变量
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(375,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(379,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(451,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(455,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(465,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(542,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(552,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(558,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(565,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(579,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(601,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\桌面\损坏文件\一元多项式计算器\一元多项式计算器\main.cpp(527,34): warning C4101: “p2”: 未引用的局部变量
+  一元多项式计算器.vcxproj -> H:\桌面\损坏文件\一元多项式计算器\Debug\一元多项式计算器.exe
